@@ -6,6 +6,6 @@ So lets get started.
 Check the **ingredients file to find out what all ingredients** you need to cook up this extravigance and then check out
 the **Recipe file to find out how to make this dish**!!
 
-## **Remember the secret to a perfect diah is a happy chef!! So Happy Cooking!!!!** :)
-
 ![chef](chef.jpg)
+## **Remember the secret to a perfect dish is a happy chef!! So Happy Cooking!!!!** :)
+
