@@ -7,5 +7,7 @@
 5. Coriander Powder
 6. Tamarind Paste
 7. Chat Masala
-8. Graded Cheese *[Optional]*
-9. Corn or Whole Chana *[Optional]*
+8. Chopped Onion
+9. Aloo Bhujia
+10. Graded Cheese *[Optional]*
+11. Corn or Whole Chana *[Optional]*
